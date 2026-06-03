@@ -2,4 +2,4 @@
 
 Welcome to **Sweet Pack**! Sebuah game platformer 2D interaktif yang dibuat menggunakan Unity. Di dalam game ini, pemain akan mengendalikan karakter Vanellope untuk menjelajahi rintangan, mengumpulkan poin permen, dan menuju goa kemenangan untuk menyelesaikan level.
 
-<img width="804" height="453" alt="Screenshot 2026-06-04 021515" src="https://github.com/user-attachments/assets/1942a1c0-6b80-4d67-8f4f-55bcabb0f3ba" />
+<img width="795" height="440" alt="Screenshot 2026-06-04 021923" src="https://github.com/user-attachments/assets/5894135f-dee9-4a14-841d-82562dc53c97" />
